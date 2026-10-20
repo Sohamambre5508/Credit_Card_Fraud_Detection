@@ -1,9 +1,3 @@
-# Credit_Card_Fraud_Detection
-ML model to detect fraudulent credit card transactions using Logistic Regression with SMOTE for class imbalance. Achieves 96.69% recall.
-
-# Problem statement: why fraud detection matters, and why accuracy is misleading when fraud is ~0.17% of transactions
-
-
 # 💳 Credit Card Fraud Detection
 
 A machine learning project that detects fraudulent credit card transactions using **Logistic Regression**, built to handle extreme class imbalance (only 0.172% fraud).
@@ -33,19 +27,6 @@ Credit card fraud costs billions every year. The challenge is that fraud is extr
 |-------|----------|
 | Logistic Regression | **96.69%** |
 
-*(Add Precision, Recall, F1, and AUPRC here if you have them.)*
-
-## 📈 Visuals
-![Class Distribution](images/class_distribution.png)
-![Confusion Matrix](images/confusion_matrix.png)
-
-## 🚀 How to Run
-```bash
-git clone https://github.com/<your-username>/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
-pip install -r requirements.txt
-jupyter notebook notebooks/fraud_detection.ipynb
-```
 
 ## 🛠️ Tech Stack
 Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
@@ -57,4 +38,4 @@ Python · Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn
 - Deploy as a Streamlit web app
 
 ## 👤 Author
-**[Your Name]** · [LinkedIn](your-link) · [GitHub](your-link)
+**[Soham Ambre]** · [LinkedIn](your-link) · [GitHub](your-link)
