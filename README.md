@@ -9,9 +9,6 @@ Credit card fraud costs billions every year. The challenge is that fraud is extr
 - **Source:** [Kaggle – Credit Card Fraud Detection (ULB)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Transactions by European cardholders in **September 2013**, spanning two days
 - **284,807 transactions**, of which **492 are fraud (0.172%)**
-- Features `V1`–`V28` are PCA-transformed (anonymized for confidentiality)
-- `Time` = seconds since the first transaction, `Amount` = transaction amount
-- `Class` = target (1 = fraud, 0 = legit)
 
 > The dataset is not included in this repo due to size. Download it from the link above and place `creditcard.csv` in the `data/` folder.
 
